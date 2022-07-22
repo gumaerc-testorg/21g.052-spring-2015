@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 7a3a176b-402d-fa1e-a9e7-96b1449c9a03
 title: 'Weekly Response Questions '
 uid: f2326e6f-d4d6-4121-9c7b-1deaa5cb51d6
