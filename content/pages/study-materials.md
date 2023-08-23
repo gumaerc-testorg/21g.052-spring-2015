@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study materials for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -9,7 +10,7 @@ uid: ba071989-4285-97e4-86ee-aa6d8cf96975
 General Resources
 -----------------
 
-Brinkema, Eugenie. ["How to Watch a Film" (PDF)]({{< baseurl >}}/resources/mit21g_052s15_watch_a_film). (Courtesy of Eugenie Brinkema. Used with permission.)
+Brinkema, Eugenie. {{% resource_link 071946dc-4339-888b-4f68-426ca03c5577 "\"How to Watch a Film\" (PDF)" %}}. (Courtesy of Eugenie Brinkema. Used with permission.)
 
 Schlemowitz, Joel. "[Glossary of Film Terms](http://www.joelschlemowitz.com/)." (Located under _Filmaking Study Guides_).
 

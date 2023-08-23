@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists topics and references for an assignment to give an oral
+  and visual presentation about a film and readings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
