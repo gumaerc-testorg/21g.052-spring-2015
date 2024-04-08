@@ -41,7 +41,7 @@ Upon completion of this course students will be able to:
 Recommended Text
 ----------------
 
-Williams, Alan. _Republic of Images: A History of French Filmmaking_. Harvard University Press, 1992. ISBN: 9780674762688. \[Preview with [Google Books](http://books.google.com/books?id=ESVZOghoi6kC&pg=PAfrontcover)\]
+Williams, Alan. _Republic of Images: A History of French Filmmaking_. Harvard University Press, 1992. ISBN: 9780674762688. \[Preview with {{% resource_link "16722cee-7cc6-45f8-9d5f-54b65e363be6" "Google Books" %}}\]
 
 Assignments and Grading
 -----------------------
@@ -149,7 +149,7 @@ Enrollment is limited to 18 students for pedagogical purposes. Priority will be 
 Academic Integrity
 ------------------
 
-Students are expected to adhere to [MIT's Academic Integrity policies](http://integrity.mit.edu/). All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their papers with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their film experience paper), but they are individually responsible for all written work.
+Students are expected to adhere to {{% resource_link "869ee2ea-4bd1-4f94-a00c-99b2a5cd0a11" "MIT's Academic Integrity policies" %}}. All work (research papers, weekly papers, presentations) must be completed independently, unless otherwise cleared by the instructor. Students are encouraged to discuss the readings and their papers with each other (they may, for example, want to practice their presentations for their classmates or have a classmate look over a draft of their film experience paper), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
