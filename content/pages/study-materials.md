@@ -12,19 +12,19 @@ General Resources
 
 Brinkema, Eugenie. {{% resource_link 071946dc-4339-888b-4f68-426ca03c5577 "\"How to Watch a Film\" (PDF)" %}}. (Courtesy of Eugenie Brinkema. Used with permission.)
 
-Schlemowitz, Joel. "[Glossary of Film Terms](http://www.joelschlemowitz.com/)." (Located under _Filmaking Study Guides_).
+Schlemowitz, Joel. "{{% resource_link "a03c0589-128a-4421-b972-fab27ed6d6eb" "Glossary of Film Terms" %}}." (Located under _Filmaking Study Guides_).
 
-[The Columbia Film Language Glossary](https://filmglossary.ccnmtl.columbia.edu/). Columbia Center for Teaching & Learning, Columbia University.
+{{% resource_link "c2269343-f8ad-4e77-a443-0e66b5169f55" "The Columbia Film Language Glossary" %}}. Columbia Center for Teaching & Learning, Columbia University.
 
-[BFI Glossary of Film Terms](http://www.screenonline.org.uk/education/glossary.html). BFI Screenonline.
+{{% resource_link "76a07ef8-7199-45c4-a6e0-5c99f3145bb8" "BFI Glossary of Film Terms" %}}. BFI Screenonline.
 
 Where to find French Films
 --------------------------
 
-The French embassy maintains [this site with info on French films screening in the U.S.](http://frenchflicks.com/home.html)
+The French embassy maintains {{% resource_link "582cd3fd-9906-4f2d-810b-4719dd41c3c8" "this site with info on French films screening in the U.S." %}}
 
-You can also look at the calendars of individual theaters in the area, see [this list maintained by the Humanities Film Office](http://humanitiesfilmoffice.mit.edu/calendar/).
+You can also look at the calendars of individual theaters in the area, see {{% resource_link "60c338a7-df3b-4afc-ac8a-623aa1ef4889" "this list maintained by the Humanities Film Office" %}}.
 
-You can currently watch all of the short films in the online film festival for free: [My French Film Festival](http://www.myfrenchfilmfestival.com/en/).
+You can currently watch all of the short films in the online film festival for free: {{% resource_link "280b04aa-65d2-4448-9e0c-8e854bccda0f" "My French Film Festival" %}}.
 
-"[Grand Illusions – The Cinema of WWI](http://frenchculture.org/film-tv-and-new-media/events/grand-illusions-cinema-wwi)." Harvard Film Archive.
+"{{% resource_link "aa1e1a8c-33c1-44db-9fd9-f957d0a52cbe" "Grand Illusions – The Cinema of WWI" %}}." Harvard Film Archive.
