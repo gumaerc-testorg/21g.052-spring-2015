@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on how to watch a film.
-file: /ol-ocw-studio-app/courses/21g-052-french-film-classics-spring-2015/071946dc4339888b4f68426ca03c5577_MIT21G_052S15_Watch_a_Film.pdf
+file: /courses/21g-052-french-film-classics-spring-2015/071946dc4339888b4f68426ca03c5577_MIT21G_052S15_Watch_a_Film.pdf
 file_size: 80677
 file_type: application/pdf
 learning_resource_types: []
